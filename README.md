@@ -1,5 +1,5 @@
-# My Vue Modal
-A simple Modal component for Vue.
+# Vue JS Modal
+A simple Modal component for Vue JS.
 
 ## How to use
 Download the component file and place it in your `components/` folder.  

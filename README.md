@@ -10,9 +10,10 @@ Nota Bene: this component was built using [Tailwind CSS](https://tailwindcss.com
 
 ## Content
 You can put any HTML code you wish between the opening and ending tags.  
-You can pass two optionnal parameters to the component :
+You can pass three optionnal parameters to the component :
 - `displayed`, a boolean that defaults to `false` and tells whether the modal should be displayed or not as the page loads
 - `btnClose`, a boolean that defaults to `true` and tells whether a close button should be displayed or not at the top-right corner of the overlay.
+- `adaptative`, a boolean that defaults to `false` and tells whether the modal should adapt its size to the content or not.
 
 ## Event
 This component fires a `close` event when the close button is triggered, the Escape key pressed or when the user clicks outside of the modal. You can watch for it in order to put the `displayed` prop to false to close the modal.

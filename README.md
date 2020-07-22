@@ -5,8 +5,6 @@ A simple Modal component for Vue JS.
 Download the component file and place it in your `components/` folder.  
 Then, you can import it with `import Modal from "@/components/Modal.vue";`.  
 Then simply call it with `<Modal>Your content</Modal>`.  
-  
-Nota Bene: this component was built using [Tailwind CSS](https://tailwindcss.com/). If you don't want to use it, then check the `alternative_style.css` file and add its content to the component's `<style>` tag.
 
 ## Content
 You can put any HTML code you wish between the opening and ending tags.  

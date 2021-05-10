@@ -1,0 +1,25 @@
+{
+  "name": "@2alheure/vue-modal",
+  "version": "1.0.0",
+  "description": "A simple Modal component for Vue.js.",
+  "main": "src/Modal.vue",
+  "scripts": {
+    "test": "vue serve src/Modal.vue"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2alheure/vue_js_modal.git"
+  },
+  "keywords": [
+    "Vue.js",
+    "modal",
+    "window",
+    "pop-up"
+  ],
+  "author": "2alheure <contact@2alheure.fr>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/2alheure/vue_js_modal/issues"
+  },
+  "homepage": "https://github.com/2alheure/vue_js_modal#readme"
+}

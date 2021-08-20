@@ -1,6 +1,6 @@
 {
   "name": "@2alheure/vue-modal",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A simple Modal component for Vue.js.",
   "main": "src/Modal.vue",
   "scripts": {

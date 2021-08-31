@@ -1,5 +1,6 @@
 # Vue.js Modal
-A simple Modal component for Vue.js.
+A simple Modal component for Vue.js.  
+This component is compatible with Vue 3.
 
 - [Vue.js Modal](#vuejs-modal)
   - [Installation](#installation)
